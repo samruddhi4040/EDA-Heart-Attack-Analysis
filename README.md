@@ -1,4 +1,5 @@
-# EDA-Heart-Attack-Analysis                            
+# EDA-Heart-Attack-Analysis             
+You can view the live demo here at: https://www.kaggle.com/code/samruddhi4040/eda-heart-attack-analysis-prediction
 I performed EDA on Heart attack analysis & predictions.                                         
 The dataset contains rows such as : age,	sex,	cp,	trtbps,	chol,	fbs,	restecg, thalachh,	exng,	oldpeak,	slp,	caa,	thall,	output.                              
 The data was checked out on for:                            
